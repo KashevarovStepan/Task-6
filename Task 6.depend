@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1605454399 source:c:\ÑÏבÃÓ\cock blocks\1 סולוסענ\task 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+
+1607516279 source:c:\ÑÏבÃÓ\code blocks\1 סולוסענ\task 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<windows.h>
+
